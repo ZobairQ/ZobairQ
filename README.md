@@ -2,7 +2,11 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZobairQ&show_icons=true&theme=vue)
 
-## Most used languages
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZobairQ)](https://github.com/anuraghazra/github-readme-stats)
+
+## Time Mostly Spent On
 
 ![alt text](https://wakatime.com/share/@7a9df817-bf90-4750-be8c-31422d30cf49/68c19e7b-7684-47f6-90f0-552567172c60.svg)
 
