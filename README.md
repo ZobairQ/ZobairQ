@@ -1,4 +1,11 @@
-### Hi there 👋
+# Zobair Qauomi
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZobairQ&show_icons=true&theme=vue)
+
+## Most used languages
+
+![alt text](https://wakatime.com/share/@7a9df817-bf90-4750-be8c-31422d30cf49/68c19e7b-7684-47f6-90f0-552567172c60.svg)
+
 
 <!--
 **ZobairQ/ZobairQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
